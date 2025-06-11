@@ -1,9 +1,9 @@
 package latihan3;
 
 /**
- * Nama: [Nama Anda]
- * NPM: [NPM Anda]
- * Kelas: [Kelas Anda]
+ * Nama: [Muhammad Rayhan Ariadi]
+ * NPM: [2310010097]
+ * Kelas: [4D]
  */
 public class Rumus {
     // Atribut
