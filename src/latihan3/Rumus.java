@@ -6,5 +6,9 @@ package latihan3;
  * Kelas: [Kelas Anda]
  */
 public class Rumus {
-    
+     // Atribut
+    int sisi;
+    int panjang;
+    int lebar;
+    int hasil;
 }
