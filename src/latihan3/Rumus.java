@@ -6,12 +6,12 @@ package latihan3;
  * Kelas: [Kelas Anda]
  */
 public class Rumus {
-     // Atribut
+    // Atribut
     int sisi;
     int panjang;
     int lebar;
-    int hasil;
-
+    int hasil;
+    
     // Konstruktor
     public Rumus() {
         this.sisi = 0;
@@ -33,5 +33,5 @@ public class Rumus {
     // Accessor untuk mendapatkan nilai hasil
     public int getHasil() {
         return this.hasil;
-    }
+    }
 }
